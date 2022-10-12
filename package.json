@@ -1,0 +1,23 @@
+{
+  "name": "habits-app",
+  "version": "1.0.0",
+  "description": "App to track your habits and receive rewards for accomplishing them",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdomil/habits-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdomil/habits-app/issues"
+  },
+  "homepage": "https://github.com/jdomil/habits-app#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
